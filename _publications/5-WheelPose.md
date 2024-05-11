@@ -6,13 +6,21 @@ excerpt: ''
 date: 2024-05-11
 venue: 'ACM CHI 2024'
 paperurl: 'http://academicpages.github.io/files/WheelPose_final.pdf'
-citation: '@misc{huang2024wheelpose,
-      title={WheelPose: Data Synthesis Techniques to Improve Pose Estimation Performance on Wheelchair Users}, 
-      author={William Huang and Sam Ghahremani and Siyou Pei and Yang Zhang},
-      year={2024},
-      eprint={2404.17063},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC}
+citation: '@inproceedings{10.1145/3613904.3642555,
+		author = {Huang, William and Ghahremani, Sam and Pei, Siyou and Zhang, Yang},
+		title = {WheelPose: Data Synthesis Techniques to Improve Pose Estimation Performance on Wheelchair Users},
+		year = {2024},
+		isbn = {9798400703300},
+		publisher = {Association for Computing Machinery},
+		address = {New York, NY, USA},
+		url = {https://doi.org/10.1145/3613904.3642555},
+		doi = {10.1145/3613904.3642555},
+		booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
+		articleno = {944},
+		numpages = {25},
+		keywords = {Accessibility, Data Synthesis, Pose Estimation, Wheelchair Users},
+		location = {, Honolulu, HI, USA, },
+		series = {CHI '24}
 }'
 ---
 
