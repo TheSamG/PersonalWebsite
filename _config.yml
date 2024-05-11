@@ -21,7 +21,7 @@ repository               : "github.com/TheSamG/thesamg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait_square.png"
   name             : "Sam Ghahremani"
   pronouns         : "he / him"  
   bio              : "HCI Researcher at HiLab"
@@ -74,7 +74,7 @@ author:
 
 
 # Site Settings
-teaser                   : "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
