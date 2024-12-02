@@ -11,6 +11,6 @@ I recently graduated from the [University of California, Berkeley](https://www.b
 
 My focus of research lies within the field of **Human-Computer Interaction (HCI)**. Specifically within this field, I am most interested in creating human-computer technologies to both understand and postively impact human health. 
 
-Outside of research, I'm either at the pier fishing for mackerel or prepping for my next fighting-game tournament.
+Outside of research, I'm either fishing at the local pier, or prepping for my next fighting-game tournament.
 
 
