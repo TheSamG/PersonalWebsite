@@ -3,7 +3,7 @@ title: "Individual and Alzheimers diseaserelated differences in Biondi body amyl
 collection: publications
 permalink: /publication/Alzeheimers
 excerpt: 'PAPER IN PREPERATION'
-date: 2024-01-01
+date: 2025-01-01
 venue: ''
 paperurl: ''
 citation: ''

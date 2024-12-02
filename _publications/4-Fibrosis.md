@@ -3,7 +3,7 @@ title: "Negative association between nodular stromal fibrosis and large lipid dr
 collection: publications
 permalink: /publication/Fibrosis
 excerpt: 'PAPER IN PREPERATION'
-date: 2024-01-01
+date: 2025-01-01
 venue: ''
 paperurl: ''
 citation: ''

@@ -3,7 +3,7 @@ title: "Biondi body amyloid is spatially clustered in the human choroid plexus: 
 collection: publications
 permalink: /publication/Biondi
 excerpt: 'PAPER IN PREPERATION'
-date: 2023-01-01
+date: 2025-01-01
 venue: ''
 paperurl: ''
 citation: ''
