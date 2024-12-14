@@ -24,9 +24,9 @@ author:
   avatar           : "portrait_square_small.png"
   name             : "Sam Ghahremani"
   pronouns         : "he / him"  
-  bio              : "HCI Researcher at HiLab"
+  bio              : "Prospective CS/HCI PhD student"
   location         : # "Earth"
-  employer         : "UCLA"
+  employer         : #"UCLA"
   uri              : # URL
   email            : "samg2024@berkeley.edu" 
 
